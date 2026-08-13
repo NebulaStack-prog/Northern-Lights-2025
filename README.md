@@ -1,6 +1,6 @@
 # Northern Lights
 
-<img src="https://github.com/NebulaStack-prog/Calculator-v.1/raw/main/IMG_20260701_003212_702.jpg" width="200" height="230">
+<img src="https://github.com/NebulaStack-prog/Northern-Lights-2025/raw/main/SL.png" width="200" height="230">
 
 * **ID:** NS-P003
 * **Date:** 22.12.25
